@@ -1,1 +1,1 @@
-I don't like Evernote because it's not free enough
+Improve markdown editor, adding functions I want.
