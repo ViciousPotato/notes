@@ -9,6 +9,9 @@ to revert:
     
 ## Commit tips
 rm multiple deleted files
+
     git rm $(git ls-files --deleted)  
+
 or
+
     git commit -a 
