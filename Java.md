@@ -9,7 +9,12 @@ complex type means have children
 **I really can't get used to Java stuff**
 
 
-[1] http://www.oracle.com/technetwork/articles/javase/index-140168.html
+## Spring
+The truth about spring is that it uses configurations files instead of
+code?
 
+Is this really a good practice?
 
 I wish there be a book covering Java tools, frameworks and patterns.
+
+[1] http://www.oracle.com/technetwork/articles/javase/index-140168.html
