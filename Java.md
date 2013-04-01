@@ -18,3 +18,7 @@ Is this really a good practice?
 I wish there be a book covering Java tools, frameworks and patterns.
 
 [1] http://www.oracle.com/technetwork/articles/javase/index-140168.html
+
+## Tips
+* completely re-publish tomcat webapps
+  in Server view, right click server and select 'Clean'
