@@ -24,3 +24,8 @@ test:
 ## MSI
 
   msiexec /a f:\zenworks\zfdagent.msi /qb TARGETDIR=c:\zfd701
+
+## Sublime Text
+
+### Change size of tabs
+> If you specifically want to go from 2 to 4 spaces, click on the tab menu in the lower right corner. Click "convert indentation to tabs", change width to 4, then "convert indentation to spaces."
