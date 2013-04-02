@@ -20,3 +20,7 @@ test:
 
 .PHONY: test
 ```
+
+## MSI
+
+  msiexec /a f:\zenworks\zfdagent.msi /qb TARGETDIR=c:\zfd701
