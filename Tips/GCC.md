@@ -1,1 +1,1 @@
-* g++ -g -S -masm=intel Class.cpp
+    g++ -g -S -masm=intel Class.cpp
