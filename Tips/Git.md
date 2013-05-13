@@ -36,3 +36,7 @@ which tells git to keep your password cached in memory for (by default) 15 minut
     git config --global credential.helper osxkeychain
 
 and there is a similar helper for Windows, called git-credential-winstore.exe.
+
+## Recover
+    git reflog
+    git branch <checksum>
