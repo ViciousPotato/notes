@@ -29,3 +29,9 @@ test:
 
 ### Change size of tabs
 > If you specifically want to go from 2 to 4 spaces, click on the tab menu in the lower right corner. Click "convert indentation to tabs", change width to 4, then "convert indentation to spaces."
+
+## Java
+
+    javap -c Someclass
+
+to disassemble java classes when you have no other tools available.
