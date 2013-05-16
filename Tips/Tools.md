@@ -35,3 +35,7 @@ test:
     javap -c Someclass
 
 to disassemble java classes when you have no other tools available.
+
+## Eclipse
+
+C-A C-I to re indent code
