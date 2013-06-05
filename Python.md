@@ -25,3 +25,10 @@ with open('mydata.txt') as fp:
 ...             return -1
 ...     return i
 ```
+
+### Dictionary
+```
+>>> d = locals()
+>>> d = {k: d[k] for k in d if k.startswith('g')}
+
+```
