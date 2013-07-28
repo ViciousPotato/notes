@@ -7,6 +7,12 @@ to revert:
 
     git update-index --no-assume-unchanged <file>
     
+Also 
+    
+    git rm --cache 
+    
+can be used but not sure whether the file would be deleted on other repos.
+
 ## Commit tips
 rm multiple deleted files
 
