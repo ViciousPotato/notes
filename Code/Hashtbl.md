@@ -2,10 +2,10 @@
 
   Question: how to make sure these 2^30 functions have different distribution pattern?
   
-  seeded_hash_param
+  where is seeded_hash_param implemented
   
 2. Hashtbl是mutable record
 
    > Boxed, mutable arrays are the main mechanism for implementing a hashtable, so that particular structure showed up the GC traversal issue. This is common to many languages. The symptom is excessive garbage collection (up to 95% of time spent in GC).
    
-   hash table are mutable by nature, so hard to find purely functional data structure?
+   hash table are mutable by nature, so hard to find efficient purely functional implementation?
