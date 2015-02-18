@@ -35,3 +35,13 @@ functor UnbalancedSet(Element: ORDERED): SET =
             else if Element.lt (y, x) then T (a, y, insert(x, b))
             else s
         end
+(*
+Exercise 2.2
+
+        fun member (x, E) = false
+          | member (x, T(a, y, b)) =
+            if Element.lt (x, y) then member (x, a)
+            else if member (x, b) then true
+            else if x = y then true else false
+*)
+            
